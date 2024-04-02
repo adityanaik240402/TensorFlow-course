@@ -1,4 +1,4 @@
-# TensorFlow-course
+# TensorFlow-course-final-scripts
 This repository contains all the final assignments for each ML course I completed during my TensorFlow course from DeepLearning.AI. 
 1. Handling complex images - classification of happy or sad emojis using a convulutional neural network.
 2. Multi-class classification - interpreting the sign language MNIST dataset using a convulutional neural network.
